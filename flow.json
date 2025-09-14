@@ -329,7 +329,7 @@
 		},
 		"IncrementFiPoolLiquidityConnectors": {
 			"source": "mainnet://efa9bd7d1b17f1ed.IncrementFiPoolLiquidityConnectors",
-			"hash": "962a742ec92e9aaed818f42991d1b26bf7515421544e4a91d82aa76c8d0628e7",
+			"hash": "5d96bc62deca559e7dad6e751cabd44f98c5070aed90ba2ab693de9723b8cd41",
 			"aliases": {
 				"mainnet": "efa9bd7d1b17f1ed",
 				"testnet": "49bae091e5ea16b5"
@@ -518,7 +518,7 @@
 			}
 		},
 		"mainnet": {
-			"address": "0e5b1dececaca3a8",
+			"address": "46df6b5eeec6103a",
 			"key": {
 				"type": "file",
 				"location": "mainnet.pkey"
@@ -526,10 +526,7 @@
 		},
 		"testnet": {
 			"address": "daac4c96b1ea362d",
-			"key": {
-				"type": "file",
-				"location": "testnet.pkey"
-			}
+			"key": "5580d9003eff5b26701b935dfc8b203c6f2cab29c4a11ec14662f4a1f63a4526"
 		}
 	},
 	"deployments": {
@@ -567,7 +564,27 @@
 				"stFlowToken",
 				"TokenA",
 				"TokenB",
-				"TestTokenMinter"
+				"TestTokenMinter",
+				"FlowEVMBridgeCustomAssociations",
+				"FlowEVMBridgeCustomAssociationTypes",
+				"FlowEVMBridgeNFTEscrow",
+				"FlowEVMBridgeConfig",
+				"FlowEVMBridgeHandlerInterfaces",
+				"FlowEVMBridgeUtils",
+				"SerializeMetadata",
+				"Serialize",
+				"CrossVMNFT",
+				"ICrossVMAsset",
+				"ICrossVM",
+				"IBridgePermissions",
+				"FlowEVMBridgeTemplates",
+				"IEVMBridgeTokenMinter",
+				"FlowEVMBridge",
+				"IEVMBridgeNFTMinter",
+				"IFlowEVMNFTBridge",
+				"CrossVMToken",
+				"FlowEVMBridgeTokenEscrow",
+				"SwapPair"
 			]
 		},
 		"mainnet": {

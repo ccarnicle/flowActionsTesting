@@ -2,3 +2,4 @@
 imports
 .env
 *.pkey
+mainnet.pkey
