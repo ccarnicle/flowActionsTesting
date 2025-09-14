@@ -1,0 +1,8 @@
+# flow
+emulator-account.pkey
+.env
+
+# Pay attention to imports directory
+!imports
+testnet.pkey
+test.pkey
