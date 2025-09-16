@@ -23,6 +23,13 @@
 			"aliases": {
 				"testing": "0000000000000007"
 			}
+		},
+		"aiSportsJuice": {
+			"source": "cadence/contracts/mock/aiSportsJuice.cdc",
+			"aliases": {
+				"mainnet": "9db94c9564243ba7",
+				"testnet": "f8ba321af4bd37bb"
+			}
 		}
 	},
 	"dependencies": {
